@@ -204,7 +204,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">92952</property>
+  <property name="kdenlive:docproperties.position">92546</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -219,7 +219,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">12</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -237,6 +237,7 @@
   &lt;clipitem position="96716" track="3"/>
   &lt;clipitem position="123312" track="2"/>
   &lt;clipitem position="106509" track="2"/>
+  &lt;clipitem position="92546" track="2"/>
   &lt;clipitem position="93644" track="2"/>
   &lt;clipitem position="123444" track="3"/>
   &lt;clipitem position="107362" track="3"/>
@@ -314,6 +315,7 @@
   &lt;clipitem position="103846" track="3"/>
   &lt;clipitem position="119999" track="2"/>
   &lt;clipitem position="100188" track="3"/>
+  &lt;clipitem position="92546" track="3"/>
   &lt;clipitem position="111682" track="3"/>
   &lt;clipitem position="100188" track="2"/>
   &lt;clipitem position="122499" track="3"/>
@@ -494,7 +496,8 @@
   <entry out="56943" producer="5_playlist2" in="55778"/>
   <entry out="56942" producer="4_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="34841" producer="3_playlist2" in="0"/>
+  <entry out="34435" producer="3_playlist2" in="0"/>
+  <entry out="34841" producer="3_playlist2" in="34436"/>
   <entry out="2433" producer="slowmotion:3:20:1:0" in="1742"/>
   <entry out="50472" producer="3_playlist2" in="48683"/>
   <entry out="2845" producer="3_playlist2" in="2524"/>
@@ -690,7 +693,8 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="3041" producer="8_video" in="0"/>
+  <entry out="2635" producer="8_video" in="0"/>
+  <entry out="3041" producer="8_video" in="2636"/>
   <entry out="843" producer="slowmotion:8:20:1:1" in="152"/>
   <entry out="17981" producer="8_video" in="16883"/>
   <entry out="690" producer="8_video" in="0"/>
