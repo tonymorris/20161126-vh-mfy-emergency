@@ -204,7 +204,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">82918</property>
+  <property name="kdenlive:docproperties.position">82428</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -223,6 +223,7 @@
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
+  &lt;clipitem position="82428" track="3"/>
   &lt;clipitem position="111385" track="2"/>
   &lt;clipitem position="85553" track="3"/>
   &lt;clipitem position="92277" track="3"/>
@@ -281,6 +282,7 @@
   &lt;clipitem position="91584" track="2"/>
   &lt;clipitem position="101791" track="3"/>
   &lt;clipitem position="112603" track="2"/>
+  &lt;clipitem position="82428" track="2"/>
   &lt;clipitem position="91584" track="3"/>
   &lt;clipitem position="89070" track="3"/>
   &lt;clipitem position="84037" track="2"/>
@@ -503,7 +505,8 @@
   <entry out="56943" producer="5_playlist2" in="55778"/>
   <entry out="56942" producer="4_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="24807" producer="3_playlist2" in="0"/>
+  <entry out="24317" producer="3_playlist2" in="0"/>
+  <entry out="24807" producer="3_playlist2" in="24318"/>
   <entry out="1646" producer="slowmotion:3:20:1:0" in="1240"/>
   <entry out="33660" producer="3_playlist2" in="32949"/>
   <entry out="1721" producer="3_playlist2" in="1683"/>
@@ -668,7 +671,8 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="10989" producer="8_video" in="0"/>
+  <entry out="10499" producer="8_video" in="0"/>
+  <entry out="10989" producer="8_video" in="10500"/>
   <entry out="898" producer="slowmotion:8:20:1:1" in="549"/>
   <entry out="56" producer="slowmotion:8:20:1:1" in="0"/>
   <entry out="1860" producer="8_video" in="1149"/>
