@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt title="Anonymous Submission" version="6.2.0" root="/home/tmorris" producer="main bin" LC_NUMERIC="en_AU.UTF-8">
  <profile width="1280" frame_rate_den="1001" height="720" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" colorspace="709" sample_aspect_den="1" description="HD 720p 29.97 fps" progressive="1" sample_aspect_num="1"/>
- <producer id="1" title="Anonymous Submission" out="56927" in="0">
-  <property name="length">00:31:39;14</property>
+ <producer id="1" title="Anonymous Submission" out="56926" in="0">
+  <property name="length">00:31:39;13</property>
   <property name="eof">pause</property>
   <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
   <property name="audio_index">0</property>
@@ -29,8 +29,8 @@
   <property name="kdenlive:file_hash">c7c28b0e59e90ed673dbf1550a604653</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="2" title="Anonymous Submission" out="57048" in="0">
-  <property name="length">00:31:43;15</property>
+ <producer id="2" title="Anonymous Submission" out="57047" in="0">
+  <property name="length">00:31:43;14</property>
   <property name="eof">pause</property>
   <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
   <property name="audio_index">0</property>
@@ -57,8 +57,8 @@
   <property name="kdenlive:file_hash">43056ec6412665dfa61d17224d329c4b</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="3" title="Anonymous Submission" out="56927" in="0">
-  <property name="length">00:31:39;14</property>
+ <producer id="3" title="Anonymous Submission" out="56926" in="0">
+  <property name="length">00:31:39;13</property>
   <property name="eof">pause</property>
   <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
   <property name="audio_index">0</property>
@@ -85,8 +85,8 @@
   <property name="kdenlive:file_hash">945843d77141b7e33b3be1f5b52565a9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="4" title="Anonymous Submission" out="56927" in="0">
-  <property name="length">00:31:39;14</property>
+ <producer id="4" title="Anonymous Submission" out="56926" in="0">
+  <property name="length">00:31:39;13</property>
   <property name="eof">pause</property>
   <property name="resource">/tmp/YBAF2-Nov-25-2016-2300Z.mp3</property>
   <property name="audio_index">0</property>
@@ -113,8 +113,8 @@
   <property name="kdenlive:file_hash">ac26e28b563402f26782374c35163097</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="5" title="Anonymous Submission" out="56927" in="0">
-  <property name="length">00:31:39;14</property>
+ <producer id="5" title="Anonymous Submission" out="56926" in="0">
+  <property name="length">00:31:39;13</property>
   <property name="eof">pause</property>
   <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2230Z.mp3</property>
   <property name="audio_index">0</property>
@@ -140,31 +140,6 @@
   <property name="kdenlive:file_size">7600563</property>
   <property name="kdenlive:file_hash">1304a3b331c3fb4de1f706271066936f</property>
   <property name="global_feed">1</property>
- </producer>
- <producer id="7" title="Anonymous Submission" out="14999" in="0">
-  <property name="length">00:08:21;02</property>
-  <property name="eof">pause</property>
-  <property name="resource">&lt;tractor></property>
-  <property name="fgcolour">0xffffffff</property>
-  <property name="bgcolour">0x00000000</property>
-  <property name="olcolour">0x00000000</property>
-  <property name="align">0</property>
-  <property name="pad">0</property>
-  <property name="outline">0</property>
-  <property name="text"/>
-  <property name="family">Sans</property>
-  <property name="size">48</property>
-  <property name="style">normal</property>
-  <property name="encoding">UTF-8</property>
-  <property name="weight">400</property>
-  <property name="rotate">0</property>
-  <property name="seekable">1</property>
-  <property name="markup">INVALID</property>
-  <property name="mlt_service">pango</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.width">193</property>
-  <property name="meta.media.height">58</property>
  </producer>
  <producer id="8" title="Anonymous Submission" out="17981" in="0">
   <property name="length">00:10:00;00</property>
@@ -229,7 +204,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">92945</property>
+  <property name="kdenlive:docproperties.position">91766</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -244,112 +219,64 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">3</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
-  &lt;clipitem position="121616" track="2"/>
-  &lt;clipitem position="105624" track="3"/>
-  &lt;clipitem position="93727" track="2"/>
-  &lt;clipitem position="105665" track="2"/>
-  &lt;clipitem position="99552" track="3"/>
-  &lt;clipitem position="105665" track="3"/>
-  &lt;clipitem position="110161" track="2"/>
-  &lt;clipitem position="104812" track="2"/>
-  &lt;clipitem position="104812" track="3"/>
-  &lt;clipitem position="95017" track="3"/>
-  &lt;clipitem position="121921" track="2"/>
-  &lt;clipitem position="97295" track="3"/>
-  &lt;clipitem position="121306" track="2"/>
-  &lt;clipitem position="105624" track="2"/>
-  &lt;clipitem position="107589" track="3"/>
-  &lt;clipitem position="97963" track="3"/>
-  &lt;clipitem position="92945" track="2"/>
-  &lt;clipitem position="99769" track="3"/>
-  &lt;clipitem position="121381" track="2"/>
-  &lt;clipitem position="119675" track="3"/>
-  &lt;clipitem position="97950" track="2"/>
-  &lt;clipitem position="102992" track="3"/>
-  &lt;clipitem position="122306" track="3"/>
-  &lt;clipitem position="122320" track="2"/>
-  &lt;clipitem position="121616" track="3"/>
-  &lt;clipitem position="104537" track="2"/>
-  &lt;clipitem position="120788" track="3"/>
-  &lt;clipitem position="122299" track="2"/>
-  &lt;clipitem position="102143" track="2"/>
-  &lt;clipitem position="98491" track="2"/>
-  &lt;clipitem position="107589" track="2"/>
-  &lt;clipitem position="97963" track="2"/>
-  &lt;clipitem position="93692" track="3"/>
-  &lt;clipitem position="97255" track="2"/>
-  &lt;clipitem position="103930" track="3"/>
-  &lt;clipitem position="120788" track="2"/>
-  &lt;clipitem position="100501" track="3"/>
-  &lt;clipitem position="118385" track="3"/>
-  &lt;clipitem position="103934" track="3"/>
-  &lt;clipitem position="97950" track="3"/>
-  &lt;clipitem position="121381" track="3"/>
-  &lt;clipitem position="98585" track="3"/>
-  &lt;clipitem position="122836" track="2"/>
-  &lt;clipitem position="110161" track="3"/>
-  &lt;clipitem position="95350" track="3"/>
-  &lt;clipitem position="121928" track="3"/>
-  &lt;clipitem position="118302" track="2"/>
-  &lt;clipitem position="119675" track="2"/>
-  &lt;clipitem position="122663" track="3"/>
-  &lt;clipitem position="100462" track="2"/>
-  &lt;clipitem position="103934" track="2"/>
-  &lt;clipitem position="94219" track="3"/>
-  &lt;clipitem position="107291" track="2"/>
-  &lt;clipitem position="94219" track="2"/>
-  &lt;clipitem position="118302" track="3"/>
-  &lt;clipitem position="122657" track="2"/>
-  &lt;clipitem position="121615" track="2"/>
-  &lt;clipitem position="103033" track="2"/>
-  &lt;clipitem position="107291" track="3"/>
-  &lt;clipitem position="100462" track="3"/>
-  &lt;clipitem position="121747" track="2"/>
-  &lt;clipitem position="118385" track="2"/>
-  &lt;clipitem position="119570" track="3"/>
-  &lt;clipitem position="100501" track="2"/>
-  &lt;clipitem position="109976" track="2"/>
-  &lt;clipitem position="107333" track="2"/>
-  &lt;clipitem position="103033" track="3"/>
-  &lt;clipitem position="104537" track="3"/>
-  &lt;clipitem position="95484" track="3"/>
-  &lt;clipitem position="95017" track="2"/>
-  &lt;clipitem position="99769" track="2"/>
-  &lt;clipitem position="98491" track="3"/>
-  &lt;clipitem position="119570" track="2"/>
-  &lt;clipitem position="98585" track="2"/>
-  &lt;clipitem position="109985" track="3"/>
-  &lt;clipitem position="102149" track="3"/>
-  &lt;clipitem position="122326" track="3"/>
-  &lt;clipitem position="99552" track="2"/>
-  &lt;clipitem position="120802" track="3"/>
-  &lt;clipitem position="121306" track="3"/>
-  &lt;clipitem position="102149" track="2"/>
-  &lt;clipitem position="93727" track="3"/>
-  &lt;clipitem position="94050" track="2"/>
-  &lt;clipitem position="97255" track="3"/>
-  &lt;clipitem position="102143" track="3"/>
-  &lt;clipitem position="121755" track="3"/>
-  &lt;clipitem position="121906" track="3"/>
-  &lt;clipitem position="121747" track="3"/>
-  &lt;clipitem position="95484" track="2"/>
-  &lt;clipitem position="92945" track="3"/>
-  &lt;clipitem position="97295" track="2"/>
-  &lt;clipitem position="109976" track="3"/>
+  &lt;clipitem position="97223" track="2"/>
+  &lt;clipitem position="106593" track="2"/>
+  &lt;clipitem position="99722" track="2"/>
+  &lt;clipitem position="103194" track="2"/>
+  &lt;clipitem position="92205" track="2"/>
+  &lt;clipitem position="121181" track="2"/>
+  &lt;clipitem position="120875" track="2"/>
+  &lt;clipitem position="104072" track="2"/>
+  &lt;clipitem position="92952" track="3"/>
+  &lt;clipitem position="118830" track="2"/>
+  &lt;clipitem position="117562" track="2"/>
+  &lt;clipitem position="97845" track="2"/>
+  &lt;clipitem position="98812" track="2"/>
+  &lt;clipitem position="109236" track="2"/>
+  &lt;clipitem position="91805" track="3"/>
+  &lt;clipitem position="94744" track="2"/>
+  &lt;clipitem position="94277" track="2"/>
+  &lt;clipitem position="120048" track="2"/>
+  &lt;clipitem position="120566" track="2"/>
+  &lt;clipitem position="91766" track="2"/>
+  &lt;clipitem position="118935" track="2"/>
+  &lt;clipitem position="93479" track="2"/>
+  &lt;clipitem position="121007" track="2"/>
+  &lt;clipitem position="96555" track="2"/>
+  &lt;clipitem position="93310" track="2"/>
+  &lt;clipitem position="102293" track="2"/>
+  &lt;clipitem position="91805" track="2"/>
+  &lt;clipitem position="104884" track="2"/>
+  &lt;clipitem position="96515" track="2"/>
+  &lt;clipitem position="99761" track="2"/>
+  &lt;clipitem position="103797" track="2"/>
+  &lt;clipitem position="117645" track="2"/>
+  &lt;clipitem position="91766" track="3"/>
+  &lt;clipitem position="97210" track="2"/>
+  &lt;clipitem position="97751" track="2"/>
+  &lt;clipitem position="109421" track="2"/>
+  &lt;clipitem position="101409" track="2"/>
+  &lt;clipitem position="92205" track="3"/>
+  &lt;clipitem position="106849" track="2"/>
+  &lt;clipitem position="101403" track="2"/>
+  &lt;clipitem position="106551" track="2"/>
+  &lt;clipitem position="99029" track="2"/>
+  &lt;clipitem position="92987" track="2"/>
+  &lt;clipitem position="104925" track="2"/>
  &lt;/group>
 &lt;/groups>
 </property>
   <property name="xml_retain">1</property>
-  <entry out="56927" producer="1" in="0"/>
-  <entry out="57048" producer="2" in="0"/>
-  <entry out="56927" producer="3" in="0"/>
-  <entry out="56927" producer="4" in="0"/>
-  <entry out="56927" producer="5" in="0"/>
-  <entry out="14999" producer="7" in="0"/>
+  <entry out="56926" producer="1" in="0"/>
+  <entry out="57047" producer="2" in="0"/>
+  <entry out="56926" producer="3" in="0"/>
+  <entry out="56926" producer="4" in="0"/>
+  <entry out="56926" producer="5" in="0"/>
+  <blank length="14999"/>
   <entry out="17981" producer="8" in="0"/>
  </playlist>
  <producer id="black" out="286006" in="0">
@@ -454,8 +381,35 @@
   <property name="meta.attr.comment.markup"/>
   <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
  </producer>
- <producer id="2_playlist2" title="Anonymous Submission" out="57047" in="0">
-  <property name="length">00:31:43;15</property>
+ <producer id="slowmotion:3:20:1:0" out="2846" in="0">
+  <property name="length">2847</property>
+  <property name="eof">pause</property>
+  <property name="resource">20:/home/tmorris/work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">22050</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">32000</property>
+  <property name="meta.attr.title.markup">Nov-25-2016-2330Z             </property>
+  <property name="meta.attr.artist.markup">YBAF Gnd/Twr #2 (LiveATC.net) </property>
+  <property name="meta.attr.album.markup"/>
+  <property name="meta.attr.date.markup"/>
+  <property name="meta.attr.comment.markup"/>
+  <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">20</property>
+  <property name="warp_resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
+  <property name="mlt_service">timewarp</property>
+ </producer>
+ <producer id="2_playlist2" title="Anonymous Submission" out="57046" in="0">
+  <property name="length">00:31:43;14</property>
   <property name="eof">pause</property>
   <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
   <property name="audio_index">0</property>
@@ -490,7 +444,9 @@
   <entry out="56943" producer="5_playlist2" in="55778"/>
   <entry out="56942" producer="4_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="34834" producer="3_playlist2" in="0"/>
+  <entry out="33655" producer="3_playlist2" in="0"/>
+  <entry out="1720" producer="slowmotion:3:20:1:0" in="1682"/>
+  <entry out="34834" producer="3_playlist2" in="34435"/>
   <entry out="2523" producer="3_playlist2" in="1742"/>
   <entry out="2846" producer="3_playlist2" in="2524"/>
   <entry out="167" producer="2_playlist2" in="0"/>
@@ -533,6 +489,7 @@
   <blank length="131"/>
   <entry out="2204" producer="1_playlist2" in="2031"/>
   <entry out="35834" producer="1_playlist2" in="35760"/>
+  <blank length="740"/>
   <entry out="2024" producer="1_playlist2" in="1791"/>
   <blank length="1"/>
   <entry out="40638" producer="1_playlist2" in="40508"/>
@@ -666,6 +623,58 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
+ <producer id="producer0" out="898" in="0">
+  <property name="length">899</property>
+  <property name="eof">pause</property>
+  <property name="resource">20:/home/tmorris/Downloads/10 Minute Timer (count-up stopwatch).mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">50</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">61770</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2016-08-15 13:12:36</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">125592</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2016-08-15 13:12:36</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2016-08-15 13:12:36</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">20</property>
+  <property name="warp_resource">Downloads/10 Minute Timer (count-up stopwatch).mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
   <entry out="17981" producer="8_video" in="0"/>
@@ -673,11 +682,14 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="3034" producer="8_video" in="0"/>
+  <entry out="1855" producer="8_video" in="0"/>
+  <entry out="130" producer="slowmotion:8:20:1:1" in="92"/>
+  <entry out="3034" producer="8_video" in="2635"/>
   <entry out="898" producer="8_video" in="152"/>
   <entry out="33" producer="8_video" in="0"/>
+  <blank length="740"/>
   <entry out="526" producer="8_video" in="35"/>
-  <entry out="33" producer="slowmotion:8:20:1:1" in="0"/>
+  <entry out="33" producer="producer0" in="0"/>
   <blank length="459"/>
   <entry out="11328" producer="8_video" in="10531"/>
   <blank length="33"/>
