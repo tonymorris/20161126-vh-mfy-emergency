@@ -204,7 +204,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">128573</property>
+  <property name="kdenlive:docproperties.position">119218</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -219,91 +219,94 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">13</property>
+  <property name="kdenlive:docproperties.zoom">12</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
-  &lt;clipitem position="138752" track="2"/>
-  &lt;clipitem position="155008" track="2"/>
-  &lt;clipitem position="155750" track="3"/>
-  &lt;clipitem position="140420" track="2"/>
-  &lt;clipitem position="154703" track="3"/>
-  &lt;clipitem position="153875" track="2"/>
-  &lt;clipitem position="137899" track="3"/>
-  &lt;clipitem position="155407" track="2"/>
-  &lt;clipitem position="152762" track="3"/>
-  &lt;clipitem position="154702" track="2"/>
-  &lt;clipitem position="137899" track="2"/>
-  &lt;clipitem position="154834" track="3"/>
-  &lt;clipitem position="138752" track="3"/>
-  &lt;clipitem position="133549" track="3"/>
-  &lt;clipitem position="130342" track="3"/>
-  &lt;clipitem position="151472" track="2"/>
-  &lt;clipitem position="136120" track="2"/>
-  &lt;clipitem position="137017" track="3"/>
-  &lt;clipitem position="155015" track="3"/>
-  &lt;clipitem position="140378" track="3"/>
-  &lt;clipitem position="151472" track="3"/>
-  &lt;clipitem position="132856" track="2"/>
-  &lt;clipitem position="136120" track="3"/>
-  &lt;clipitem position="137624" track="2"/>
-  &lt;clipitem position="155386" track="2"/>
-  &lt;clipitem position="140676" track="3"/>
-  &lt;clipitem position="131037" track="3"/>
-  &lt;clipitem position="137021" track="3"/>
-  &lt;clipitem position="143063" track="2"/>
-  &lt;clipitem position="152657" track="2"/>
-  &lt;clipitem position="136079" track="3"/>
-  &lt;clipitem position="154468" track="2"/>
-  &lt;clipitem position="155744" track="2"/>
-  &lt;clipitem position="135230" track="3"/>
-  &lt;clipitem position="155393" track="3"/>
-  &lt;clipitem position="154393" track="3"/>
-  &lt;clipitem position="154703" track="2"/>
-  &lt;clipitem position="143248" track="3"/>
-  &lt;clipitem position="132856" track="3"/>
-  &lt;clipitem position="138711" track="2"/>
-  &lt;clipitem position="140378" track="2"/>
-  &lt;clipitem position="131672" track="2"/>
-  &lt;clipitem position="152762" track="2"/>
-  &lt;clipitem position="135236" track="2"/>
-  &lt;clipitem position="140676" track="2"/>
-  &lt;clipitem position="153875" track="3"/>
-  &lt;clipitem position="154468" track="3"/>
-  &lt;clipitem position="131037" track="2"/>
-  &lt;clipitem position="130342" track="2"/>
-  &lt;clipitem position="133588" track="2"/>
-  &lt;clipitem position="130382" track="3"/>
-  &lt;clipitem position="131050" track="2"/>
-  &lt;clipitem position="143248" track="2"/>
-  &lt;clipitem position="154842" track="3"/>
-  &lt;clipitem position="137624" track="3"/>
-  &lt;clipitem position="130382" track="2"/>
-  &lt;clipitem position="155923" track="2"/>
-  &lt;clipitem position="152657" track="3"/>
-  &lt;clipitem position="154834" track="2"/>
-  &lt;clipitem position="137021" track="2"/>
-  &lt;clipitem position="143063" track="3"/>
-  &lt;clipitem position="131672" track="3"/>
-  &lt;clipitem position="138711" track="3"/>
-  &lt;clipitem position="154993" track="3"/>
-  &lt;clipitem position="128573" track="3"/>
-  &lt;clipitem position="128573" track="2"/>
-  &lt;clipitem position="131050" track="3"/>
-  &lt;clipitem position="154393" track="2"/>
-  &lt;clipitem position="132639" track="2"/>
-  &lt;clipitem position="151389" track="3"/>
-  &lt;clipitem position="155413" track="3"/>
-  &lt;clipitem position="135230" track="2"/>
-  &lt;clipitem position="132639" track="3"/>
-  &lt;clipitem position="133549" track="2"/>
-  &lt;clipitem position="133588" track="3"/>
-  &lt;clipitem position="135236" track="3"/>
-  &lt;clipitem position="151389" track="2"/>
-  &lt;clipitem position="131578" track="3"/>
-  &lt;clipitem position="143072" track="3"/>
-  &lt;clipitem position="131578" track="2"/>
-  &lt;clipitem position="153889" track="3"/>
+  &lt;clipitem position="129864" track="2"/>
+  &lt;clipitem position="146120" track="2"/>
+  &lt;clipitem position="146862" track="3"/>
+  &lt;clipitem position="131532" track="2"/>
+  &lt;clipitem position="145815" track="3"/>
+  &lt;clipitem position="144987" track="2"/>
+  &lt;clipitem position="129011" track="3"/>
+  &lt;clipitem position="146519" track="2"/>
+  &lt;clipitem position="143874" track="3"/>
+  &lt;clipitem position="119218" track="3"/>
+  &lt;clipitem position="145814" track="2"/>
+  &lt;clipitem position="129011" track="2"/>
+  &lt;clipitem position="145946" track="3"/>
+  &lt;clipitem position="129864" track="3"/>
+  &lt;clipitem position="124661" track="3"/>
+  &lt;clipitem position="121454" track="3"/>
+  &lt;clipitem position="142584" track="2"/>
+  &lt;clipitem position="127232" track="2"/>
+  &lt;clipitem position="128129" track="3"/>
+  &lt;clipitem position="146127" track="3"/>
+  &lt;clipitem position="131490" track="3"/>
+  &lt;clipitem position="142584" track="3"/>
+  &lt;clipitem position="123968" track="2"/>
+  &lt;clipitem position="127232" track="3"/>
+  &lt;clipitem position="128736" track="2"/>
+  &lt;clipitem position="146498" track="2"/>
+  &lt;clipitem position="131788" track="3"/>
+  &lt;clipitem position="122149" track="3"/>
+  &lt;clipitem position="128133" track="3"/>
+  &lt;clipitem position="134175" track="2"/>
+  &lt;clipitem position="119218" track="2"/>
+  &lt;clipitem position="143769" track="2"/>
+  &lt;clipitem position="127191" track="3"/>
+  &lt;clipitem position="145580" track="2"/>
+  &lt;clipitem position="146856" track="2"/>
+  &lt;clipitem position="126342" track="3"/>
+  &lt;clipitem position="146505" track="3"/>
+  &lt;clipitem position="145505" track="3"/>
+  &lt;clipitem position="145815" track="2"/>
+  &lt;clipitem position="134360" track="3"/>
+  &lt;clipitem position="123968" track="3"/>
+  &lt;clipitem position="129823" track="2"/>
+  &lt;clipitem position="131490" track="2"/>
+  &lt;clipitem position="122784" track="2"/>
+  &lt;clipitem position="119551" track="3"/>
+  &lt;clipitem position="143874" track="2"/>
+  &lt;clipitem position="126348" track="2"/>
+  &lt;clipitem position="131788" track="2"/>
+  &lt;clipitem position="144987" track="3"/>
+  &lt;clipitem position="145580" track="3"/>
+  &lt;clipitem position="122149" track="2"/>
+  &lt;clipitem position="121454" track="2"/>
+  &lt;clipitem position="124700" track="2"/>
+  &lt;clipitem position="121494" track="3"/>
+  &lt;clipitem position="122162" track="2"/>
+  &lt;clipitem position="134360" track="2"/>
+  &lt;clipitem position="145954" track="3"/>
+  &lt;clipitem position="128736" track="3"/>
+  &lt;clipitem position="121494" track="2"/>
+  &lt;clipitem position="147035" track="2"/>
+  &lt;clipitem position="143769" track="3"/>
+  &lt;clipitem position="145946" track="2"/>
+  &lt;clipitem position="128133" track="2"/>
+  &lt;clipitem position="134175" track="3"/>
+  &lt;clipitem position="122784" track="3"/>
+  &lt;clipitem position="129823" track="3"/>
+  &lt;clipitem position="146105" track="3"/>
+  &lt;clipitem position="119685" track="3"/>
+  &lt;clipitem position="119685" track="2"/>
+  &lt;clipitem position="122162" track="3"/>
+  &lt;clipitem position="145505" track="2"/>
+  &lt;clipitem position="123751" track="2"/>
+  &lt;clipitem position="142501" track="3"/>
+  &lt;clipitem position="146525" track="3"/>
+  &lt;clipitem position="126342" track="2"/>
+  &lt;clipitem position="123751" track="3"/>
+  &lt;clipitem position="124661" track="2"/>
+  &lt;clipitem position="124700" track="3"/>
+  &lt;clipitem position="126348" track="3"/>
+  &lt;clipitem position="142501" track="2"/>
+  &lt;clipitem position="122690" track="3"/>
+  &lt;clipitem position="134184" track="3"/>
+  &lt;clipitem position="122690" track="2"/>
+  &lt;clipitem position="145001" track="3"/>
  &lt;/group>
 &lt;/groups>
 </property>
@@ -325,7 +328,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="156880" producer="black" in="0"/>
+  <entry out="147992" producer="black" in="0"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 2</property>
@@ -470,7 +473,8 @@
   <blank length="1"/>
   <entry out="56942" producer="3_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="13518" producer="2_playlist2" in="0"/>
+  <entry out="4163" producer="2_playlist2" in="0"/>
+  <entry out="674" producer="2_playlist2" in="208"/>
   <entry out="15287" producer="2_playlist2" in="13519"/>
   <entry out="803" producer="2_playlist2" in="764"/>
   <entry out="16752" producer="2_playlist2" in="16098"/>
@@ -575,8 +579,9 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="17981" producer="8_video" in="0"/>
-  <entry out="2698" producer="8_video" in="0"/>
+  <entry out="11325" producer="8_video" in="0"/>
+  <entry out="898" producer="8_video" in="566"/>
+  <entry out="133" producer="8_video" in="0"/>
   <entry out="4467" producer="8_video" in="2699"/>
   <entry out="262" producer="8_video" in="223"/>
   <entry out="5932" producer="8_video" in="5278"/>
@@ -631,7 +636,7 @@
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="156880" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="147992" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist2" hide="video"/>
