@@ -244,7 +244,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -505,19 +505,7 @@
   <entry out="2648" producer="slowmotion:2:20:1:0" in="2374"/>
   <entry out="53790" producer="2_playlist2" in="52979"/>
   <entry out="2730" producer="slowmotion:2:20:1:0" in="2690"/>
-  <entry out="56226" producer="2_playlist2" in="54601">
-   <filter id="fadeout" out="56226" in="54600">
-    <property name="window">75</property>
-    <property name="max_gain">20dB</property>
-    <property name="mlt_service">volume</property>
-    <property name="kdenlive_id">fadeout</property>
-    <property name="tag">volume</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-    <property name="gain">1</property>
-    <property name="end">0</property>
-   </filter>
-  </entry>
+  <entry out="56226" producer="2_playlist2" in="54601"/>
   <entry out="2852" producer="2_playlist2" in="2811"/>
   <entry out="255" producer="1_playlist2" in="0"/>
   <entry out="7523" producer="1_playlist2" in="5137"/>
