@@ -204,7 +204,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">119218</property>
+  <property name="kdenlive:docproperties.position">118428</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -219,7 +219,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">12</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -228,6 +228,8 @@
   &lt;clipitem position="146862" track="3"/>
   &lt;clipitem position="131532" track="2"/>
   &lt;clipitem position="145815" track="3"/>
+  &lt;clipitem position="118428" track="2"/>
+  &lt;clipitem position="118428" track="3"/>
   &lt;clipitem position="144987" track="2"/>
   &lt;clipitem position="129011" track="3"/>
   &lt;clipitem position="146519" track="2"/>
@@ -473,7 +475,8 @@
   <blank length="1"/>
   <entry out="56942" producer="3_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="4163" producer="2_playlist2" in="0"/>
+  <entry out="3373" producer="2_playlist2" in="0"/>
+  <entry out="4163" producer="2_playlist2" in="3374"/>
   <entry out="674" producer="2_playlist2" in="208"/>
   <entry out="15287" producer="2_playlist2" in="13519"/>
   <entry out="803" producer="2_playlist2" in="764"/>
@@ -579,7 +582,8 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="11325" producer="8_video" in="0"/>
+  <entry out="10535" producer="8_video" in="0"/>
+  <entry out="11325" producer="8_video" in="10536"/>
   <entry out="898" producer="8_video" in="566"/>
   <entry out="133" producer="8_video" in="0"/>
   <entry out="4467" producer="8_video" in="2699"/>
