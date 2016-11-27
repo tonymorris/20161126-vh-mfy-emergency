@@ -229,7 +229,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">132590</property>
+  <property name="kdenlive:docproperties.position">132062</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -244,7 +244,7 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">10</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -260,6 +260,7 @@
   &lt;clipitem position="155405" track="2"/>
   &lt;clipitem position="139723" track="2"/>
   &lt;clipitem position="141688" track="3"/>
+  &lt;clipitem position="132062" track="3"/>
   &lt;clipitem position="133868" track="3"/>
   &lt;clipitem position="155480" track="2"/>
   &lt;clipitem position="153774" track="3"/>
@@ -273,6 +274,7 @@
   &lt;clipitem position="136242" track="2"/>
   &lt;clipitem position="132590" track="2"/>
   &lt;clipitem position="141688" track="2"/>
+  &lt;clipitem position="132062" track="2"/>
   &lt;clipitem position="138029" track="3"/>
   &lt;clipitem position="154887" track="2"/>
   &lt;clipitem position="134600" track="3"/>
@@ -462,33 +464,6 @@
   <property name="meta.attr.comment.markup"/>
   <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
  </producer>
- <producer id="slowmotion:2:20:1:0" out="2852" in="0">
-  <property name="length">2853</property>
-  <property name="eof">pause</property>
-  <property name="resource">20:/home/tmorris/work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
-  <property name="aspect_ratio">1</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16p</property>
-  <property name="meta.media.0.codec.sample_rate">22050</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">mp3</property>
-  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
-  <property name="meta.media.0.codec.bit_rate">32000</property>
-  <property name="meta.attr.title.markup">Nov-26-2016-0000Z             </property>
-  <property name="meta.attr.artist.markup">YBAF Gnd/Twr #2 (LiveATC.net) </property>
-  <property name="meta.attr.album.markup"/>
-  <property name="meta.attr.date.markup"/>
-  <property name="meta.attr.comment.markup"/>
-  <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="warp_speed">20</property>
-  <property name="warp_resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
-  <property name="mlt_service">timewarp</property>
- </producer>
  <producer id="1_playlist2" title="Anonymous Submission" out="56926" in="0">
   <property name="length">00:31:39;14</property>
   <property name="eof">pause</property>
@@ -512,8 +487,9 @@
   <blank length="1"/>
   <entry out="56942" producer="3_playlist2" in="0"/>
   <blank length="1"/>
-  <entry out="17535" producer="2_playlist2" in="0"/>
-  <entry out="969" producer="slowmotion:2:20:1:0" in="876"/>
+  <entry out="17007" producer="2_playlist2" in="0"/>
+  <entry out="17535" producer="2_playlist2" in="17008"/>
+  <entry out="970" producer="2_playlist2" in="877"/>
   <entry out="20374" producer="2_playlist2" in="19408"/>
   <entry out="1235" producer="2_playlist2" in="1019"/>
   <entry out="25409" producer="2_playlist2" in="24717"/>
@@ -604,58 +580,6 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="slowmotion:8:20:1:1" out="898" in="0">
-  <property name="length">899</property>
-  <property name="eof">pause</property>
-  <property name="resource">20:/home/tmorris/Downloads/10 Minute Timer (count-up stopwatch).mp4</property>
-  <property name="aspect_ratio">1</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">25</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
-  <property name="meta.media.0.codec.width">1280</property>
-  <property name="meta.media.0.codec.height">720</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.frame_rate">50</property>
-  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.colorspace">709</property>
-  <property name="meta.media.0.codec.name">h264</property>
-  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">61770</property>
-  <property name="meta.attr.0.stream.creation_time.markup">2016-08-15 13:12:36</property>
-  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
-  <property name="meta.media.1.stream.type">audio</property>
-  <property name="meta.media.1.codec.sample_fmt">fltp</property>
-  <property name="meta.media.1.codec.sample_rate">44100</property>
-  <property name="meta.media.1.codec.channels">2</property>
-  <property name="meta.media.1.codec.name">aac</property>
-  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
-  <property name="meta.media.1.codec.bit_rate">125592</property>
-  <property name="meta.attr.1.stream.creation_time.markup">2016-08-15 13:12:36</property>
-  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
-  <property name="meta.attr.major_brand.markup">mp42</property>
-  <property name="meta.attr.minor_version.markup">0</property>
-  <property name="meta.attr.compatible_brands.markup">isommp42</property>
-  <property name="meta.attr.creation_time.markup">2016-08-15 13:12:36</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">1</property>
-  <property name="warp_speed">20</property>
-  <property name="warp_resource">Downloads/10 Minute Timer (count-up stopwatch).mp4</property>
-  <property name="mlt_service">timewarp</property>
-  <property name="meta.media.frame_rate_num">25</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">709</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.width">1280</property>
-  <property name="meta.media.height">720</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
   <entry out="17981" producer="8_video" in="0"/>
@@ -665,8 +589,9 @@
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
   <entry out="17981" producer="8_video" in="0"/>
-  <entry out="6715" producer="8_video" in="0"/>
-  <entry out="428" producer="slowmotion:8:20:1:1" in="335"/>
+  <entry out="6187" producer="8_video" in="0"/>
+  <entry out="6715" producer="8_video" in="6188"/>
+  <entry out="429" producer="8_video" in="336"/>
   <entry out="9554" producer="8_video" in="8588"/>
   <entry out="694" producer="8_video" in="478"/>
   <entry out="14589" producer="8_video" in="13897"/>
