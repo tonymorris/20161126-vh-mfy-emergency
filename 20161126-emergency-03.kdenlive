@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt title="Anonymous Submission" version="6.2.0" root="/home/tmorris" producer="main bin" LC_NUMERIC="en_AU.UTF-8">
  <profile width="1280" frame_rate_den="1001" height="720" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" colorspace="709" sample_aspect_den="1" description="HD 720p 29.97 fps" progressive="1" sample_aspect_num="1"/>
- <producer id="1" title="Anonymous Submission" out="56864" in="0">
-  <property name="length">00:31:37;11</property>
+ <producer id="1" title="Anonymous Submission" out="56863" in="0">
+  <property name="length">00:31:37;10</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -29,10 +29,10 @@
   <property name="kdenlive:file_hash">c7c28b0e59e90ed673dbf1550a604653</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="2" title="Anonymous Submission" out="56985" in="0">
-  <property name="length">00:31:41;12</property>
+ <producer id="2" title="Anonymous Submission" out="56984" in="0">
+  <property name="length">00:31:41;11</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -57,10 +57,10 @@
   <property name="kdenlive:file_hash">43056ec6412665dfa61d17224d329c4b</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="3" title="Anonymous Submission" out="56864" in="0">
-  <property name="length">00:31:37;11</property>
+ <producer id="3" title="Anonymous Submission" out="56863" in="0">
+  <property name="length">00:31:37;10</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -85,8 +85,8 @@
   <property name="kdenlive:file_hash">945843d77141b7e33b3be1f5b52565a9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="4" title="Anonymous Submission" out="56864" in="0">
-  <property name="length">00:31:37;11</property>
+ <producer id="4" title="Anonymous Submission" out="56863" in="0">
+  <property name="length">00:31:37;10</property>
   <property name="eof">pause</property>
   <property name="resource">/tmp/YBAF2-Nov-25-2016-2300Z.mp3</property>
   <property name="audio_index">0</property>
@@ -113,10 +113,10 @@
   <property name="kdenlive:file_hash">ac26e28b563402f26782374c35163097</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="5" title="Anonymous Submission" out="56864" in="0">
-  <property name="length">00:31:37;11</property>
+ <producer id="5" title="Anonymous Submission" out="56863" in="0">
+  <property name="length">00:31:37;10</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2230Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-25-2016-2230Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -258,7 +258,7 @@
   &lt;position x="355" y="79">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="26" shadow="0;#64000000;3;3;3" font="DejaVu Sans Mono" font-underline="0" font-pixel-size="22" line-spacing="0" box-width="569.078" font-color="255,255,255,255" alignment="1">9:01am 25 November 2016 local time (UTC+10)&lt;/content>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="26" shadow="0;#64000000;3;3;3" font="DejaVu Sans Mono" font-underline="0" font-pixel-size="22" line-spacing="0" box-width="569.078" font-color="255,255,255,255" alignment="1">9:01am 26 November 2016 local time (UTC+10)&lt;/content>
  &lt;/item>
  &lt;item z-index="0" type="QGraphicsTextItem">
   &lt;position x="541" y="46">
@@ -278,10 +278,10 @@
   <property name="kdenlive:file_hash">af3eb301cf0338b26189add2cb22cab9</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="10" title="Anonymous Submission" out="599" in="0">
-  <property name="length">00:00:20;00</property>
+ <producer id="10" title="Anonymous Submission" out="598" in="0">
+  <property name="length">00:00:19;29</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/Pilot touches down in emergency landing at Archerfield airport.mp4</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/Pilot touches down in emergency landing at Archerfield airport.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -332,10 +332,10 @@
   <property name="kdenlive:file_hash">dc2d574749710c7364cdfcc5d3106e07</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="11" title="Anonymous Submission" out="539" in="0">
-  <property name="length">00:00:18;00</property>
+ <producer id="11" title="Anonymous Submission" out="538" in="0">
+  <property name="length">00:00:17;29</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/ueMeYF2LIUh87r_v.mp4</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/ueMeYF2LIUh87r_v.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -396,7 +396,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.1</property>
-  <property name="kdenlive:docproperties.position">63255</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -411,44 +411,44 @@
   <property name="kdenlive:docproperties.videotargettrack">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">0</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">13</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
-  &lt;clipitem position="63276" track="3"/>
-  &lt;clipitem position="64323" track="3"/>
-  &lt;clipitem position="63978" track="2"/>
-  &lt;clipitem position="64315" track="2"/>
   &lt;clipitem position="64494" track="2"/>
-  &lt;clipitem position="63041" track="3"/>
+  &lt;clipitem position="63407" track="3"/>
   &lt;clipitem position="63415" track="3"/>
   &lt;clipitem position="62964" track="2"/>
-  &lt;clipitem position="63566" track="3"/>
   &lt;clipitem position="63039" track="2"/>
+  &lt;clipitem position="63566" track="3"/>
   &lt;clipitem position="63273" track="2"/>
   &lt;clipitem position="63588" track="3"/>
-  &lt;clipitem position="62966" track="3"/>
   &lt;clipitem position="63274" track="2"/>
   &lt;clipitem position="63405" track="2"/>
-  &lt;clipitem position="63407" track="3"/>
   &lt;clipitem position="63966" track="3"/>
   &lt;clipitem position="63579" track="2"/>
+  &lt;clipitem position="62966" track="3"/>
   &lt;clipitem position="63957" track="2"/>
   &lt;clipitem position="63986" track="3"/>
+  &lt;clipitem position="63978" track="2"/>
+  &lt;clipitem position="63041" track="3"/>
+  &lt;clipitem position="64315" track="2"/>
+  &lt;clipitem position="64323" track="3"/>
+  &lt;clipitem position="63276" track="3"/>
  &lt;/group>
 &lt;/groups>
 </property>
   <property name="xml_retain">1</property>
-  <entry out="56864" producer="1" in="0"/>
-  <entry out="56985" producer="2" in="0"/>
-  <entry out="56864" producer="3" in="0"/>
-  <entry out="56864" producer="4" in="0"/>
-  <entry out="56864" producer="5" in="0"/>
+  <entry out="56863" producer="1" in="0"/>
+  <entry out="56984" producer="2" in="0"/>
+  <entry out="56863" producer="3" in="0"/>
+  <entry out="56863" producer="4" in="0"/>
+  <entry out="56863" producer="5" in="0"/>
   <blank length="14999"/>
   <entry out="17981" producer="8" in="0"/>
   <entry out="149" producer="9" in="0"/>
-  <entry out="599" producer="10" in="0"/>
-  <entry out="539" producer="11" in="0"/>
+  <entry out="598" producer="10" in="0"/>
+  <entry out="538" producer="11" in="0"/>
  </playlist>
  <producer id="black" out="286006" in="0">
   <property name="length">286007</property>
@@ -497,7 +497,7 @@
  <producer id="3_playlist2" title="Anonymous Submission" out="56866" in="0">
   <property name="length">00:31:37;14</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-25-2016-2330Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -512,7 +512,7 @@
  <producer id="2_playlist2" title="Anonymous Submission" out="56987" in="0">
   <property name="length">00:31:41;15</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0000Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -527,7 +527,7 @@
  <producer id="1_playlist2" title="Anonymous Submission" out="56866" in="0">
   <property name="length">00:31:37;14</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -821,7 +821,7 @@
  <producer id="10_playlist4" title="Anonymous Submission" out="600" in="0">
   <property name="length">00:00:20;02</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/Pilot touches down in emergency landing at Archerfield airport.mp4</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/Pilot touches down in emergency landing at Archerfield airport.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -882,7 +882,7 @@
  <producer id="11_playlist5" title="Anonymous Submission" out="540" in="0">
   <property name="length">00:00:18;02</property>
   <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-ybaf/media/ueMeYF2LIUh87r_v.mp4</property>
+  <property name="resource">work/github.com/tonymorris/20161126-vh-mfy-emergency/media/ueMeYF2LIUh87r_v.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
