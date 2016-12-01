@@ -305,7 +305,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.3</property>
-  <property name="kdenlive:docproperties.position">370789</property>
+  <property name="kdenlive:docproperties.position">421476</property>
   <property name="kdenlive:docproperties.previewchunks">0</property>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=60 s=1920x1080 vb=90M threads=0 vcodec=dnxhd</property>
@@ -320,7 +320,7 @@
   <property name="kdenlive:docproperties.videotargettrack">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">0</property>
-  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -741,7 +741,25 @@
   <entry out="25781" producer="5_playlist1" in="22520"/>
   <entry out="3750" producer="slowmotion:5:7:1:0" in="3683"/>
   <blank length="409"/>
-  <entry out="114002" producer="5_playlist1" in="26259"/>
+  <entry out="27322" producer="5_playlist1" in="26259"/>
+  <entry out="3964" producer="slowmotion:5:7:1:0" in="3903"/>
+  <blank length="374"/>
+  <entry out="38762" producer="5_playlist1" in="27759"/>
+  <entry out="6010" producer="slowmotion:5:7:1:0" in="5537"/>
+  <blank length="2843"/>
+  <entry out="44420" producer="5_playlist1" in="42080"/>
+  <entry out="7194" producer="slowmotion:5:7:1:0" in="6345"/>
+  <blank length="5095"/>
+  <entry out="50850" producer="5_playlist1" in="50366"/>
+  <entry out="8902" producer="slowmotion:5:7:1:0" in="7264"/>
+  <blank length="9831"/>
+  <entry out="62388" producer="5_playlist1" in="62321"/>
+  <entry out="10227" producer="slowmotion:5:7:1:0" in="8912"/>
+  <blank length="7897"/>
+  <entry out="71741" producer="5_playlist1" in="71602"/>
+  <entry out="11586" producer="slowmotion:5:7:1:0" in="10248"/>
+  <blank length="8028"/>
+  <entry out="114002" producer="5_playlist1" in="81109"/>
  </playlist>
  <producer id="8_playlist3" title="Anonymous Submission" out="1080029" in="0">
   <property name="length">05:00:00:30</property>
@@ -959,7 +977,25 @@
   <entry out="370311" producer="8_playlist3" in="367050"/>
   <entry out="52968" producer="slowmotion:8:7:1:0" in="52901"/>
   <blank length="409"/>
-  <entry out="1080029" producer="8_playlist3" in="370789"/>
+  <entry out="371852" producer="8_playlist3" in="370789"/>
+  <entry out="53183" producer="slowmotion:8:7:1:0" in="53121"/>
+  <blank length="373"/>
+  <entry out="383292" producer="8_playlist3" in="372289"/>
+  <entry out="55229" producer="slowmotion:8:7:1:0" in="54756"/>
+  <blank length="2843"/>
+  <entry out="388950" producer="8_playlist3" in="386610"/>
+  <entry out="56412" producer="slowmotion:8:7:1:0" in="55564"/>
+  <blank length="5096"/>
+  <entry out="395380" producer="8_playlist3" in="394896"/>
+  <entry out="58120" producer="slowmotion:8:7:1:0" in="56483"/>
+  <blank length="9832"/>
+  <entry out="406918" producer="8_playlist3" in="406851"/>
+  <entry out="59446" producer="slowmotion:8:7:1:0" in="58131"/>
+  <blank length="7897"/>
+  <entry out="416271" producer="8_playlist3" in="416132"/>
+  <entry out="60804" producer="slowmotion:8:7:1:0" in="59467"/>
+  <blank length="8029"/>
+  <entry out="1080029" producer="8_playlist3" in="425639"/>
  </playlist>
  <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="1080030" in="0">
   <track producer="black_track"/>
