@@ -7,7 +7,7 @@
   5. YBAF26-2016-0030Z.mp3
 
 
-* The landing footage belongs after 01:49:51
+* The landing footage belongs after 01:49.51
 
   1. ueMeYF2LIUh87r_v.mp4
   2. *slide effect* 'Pilot touches down in emergency landing at Archerfield airport.mp4'
