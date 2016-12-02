@@ -305,7 +305,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.3</property>
-  <property name="kdenlive:docproperties.position">105760</property>
+  <property name="kdenlive:docproperties.position">159726</property>
   <property name="kdenlive:docproperties.previewchunks">0</property>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=60 s=1920x1080 vb=90M threads=0 vcodec=dnxhd</property>
@@ -320,7 +320,7 @@
   <property name="kdenlive:docproperties.videotargettrack">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">0</property>
-  <property name="kdenlive:docproperties.zoom">13</property>
+  <property name="kdenlive:docproperties.zoom">10</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -349,7 +349,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="1080030" producer="black" in="0"/>
+  <entry out="159726" producer="black" in="0"/>
  </playlist>
  <producer id="1_playlist1" title="Anonymous Submission" out="114002" in="0">
   <property name="length">00:31:40:03</property>
@@ -599,147 +599,138 @@
   <property name="meta.attr.comment.markup"/>
   <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
  </producer>
+ <producer id="producer0" out="16284" in="0">
+  <property name="length">16285</property>
+  <property name="eof">pause</property>
+  <property name="resource">7:work/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">22050</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">32000</property>
+  <property name="meta.attr.title.markup">Nov-26-2016-0030Z             </property>
+  <property name="meta.attr.artist.markup">YBAF Gnd/Twr #2 (LiveATC.net) </property>
+  <property name="meta.attr.album.markup"/>
+  <property name="meta.attr.date.markup"/>
+  <property name="meta.attr.comment.markup"/>
+  <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">7</property>
+  <property name="warp_resource">work/20161126-vh-mfy-emergency/media/YBAF2-Nov-26-2016-0030Z.mp3</property>
+  <property name="mlt_service">timewarp</property>
+ </producer>
  <playlist id="playlist1">
   <property name="kdenlive:track_name">Audio 1</property>
   <property name="kdenlive:audio_track">1</property>
   <entry out="114002" producer="1_playlist1" in="111723"/>
   <entry out="1134" producer="2_playlist1" in="0"/>
   <entry out="556" producer="slowmotion:2:7:1:0" in="162"/>
-  <blank length="2369"/>
   <entry out="11699" producer="2_playlist1" in="3899"/>
-  <entry out="2047" producer="slowmotion:2:7:1:0" in="1671"/>
-  <blank length="2263"/>
+  <entry out="2047" producer="2_playlist1" in="1671"/>
   <entry out="15359" producer="2_playlist1" in="14340"/>
   <entry out="2262" producer="slowmotion:2:7:1:0" in="2194"/>
-  <blank length="412"/>
   <entry out="17982" producer="2_playlist1" in="15841"/>
   <entry out="2909" producer="slowmotion:2:7:1:0" in="2569"/>
-  <blank length="2048"/>
   <entry out="23939" producer="2_playlist1" in="20372"/>
   <entry out="3493" producer="slowmotion:2:7:1:0" in="3420"/>
-  <blank length="444"/>
   <entry out="26897" producer="2_playlist1" in="24458"/>
   <entry out="4422" producer="slowmotion:2:7:1:0" in="3842"/>
-  <blank length="3488"/>
   <entry out="32530" producer="2_playlist1" in="30967"/>
   <entry out="4710" producer="slowmotion:2:7:1:0" in="4647"/>
-  <blank length="383"/>
   <entry out="38519" producer="2_playlist1" in="32978"/>
   <entry out="5619" producer="slowmotion:2:7:1:0" in="5502"/>
-  <blank length="705"/>
   <entry out="44276" producer="2_playlist1" in="39343"/>
   <entry out="6571" producer="slowmotion:2:7:1:0" in="6325"/>
-  <blank length="1481"/>
   <entry out="49799" producer="2_playlist1" in="46005"/>
   <entry out="7221" producer="slowmotion:2:7:1:0" in="7114"/>
-  <blank length="646"/>
   <entry out="51452" producer="2_playlist1" in="50554"/>
   <entry out="8139" producer="slowmotion:2:7:1:0" in="7350"/>
-  <blank length="4738"/>
   <entry out="58199" producer="2_playlist1" in="56981"/>
   <entry out="8575" producer="slowmotion:2:7:1:0" in="8314"/>
-  <blank length="1575"/>
   <entry out="61439" producer="2_playlist1" in="60037"/>
   <entry out="8832" producer="slowmotion:2:7:1:0" in="8777"/>
-  <blank length="341"/>
   <entry out="63419" producer="2_playlist1" in="61837"/>
   <entry out="10136" producer="slowmotion:2:7:1:0" in="9060"/>
-  <blank length="6467"/>
   <entry out="73019" producer="2_playlist1" in="70964"/>
   <entry out="14501" producer="slowmotion:2:7:1:0" in="10431"/>
-  <blank length="24429"/>
   <entry out="102839" producer="2_playlist1" in="101520"/>
   <entry out="16284" producer="slowmotion:2:7:1:0" in="14691"/>
   <entry out="382" producer="slowmotion:3:7:1:0" in="0"/>
-  <blank length="11867"/>
   <entry out="4976" producer="3_playlist1" in="2681"/>
   <entry out="3686" producer="slowmotion:3:7:1:0" in="711"/>
-  <blank length="17862"/>
   <entry out="28136" producer="3_playlist1" in="25815"/>
   <entry out="5292" producer="slowmotion:3:7:1:0" in="4019"/>
-  <blank length="7643"/>
   <entry out="38276" producer="3_playlist1" in="37054"/>
   <entry out="5715" producer="slowmotion:3:7:1:0" in="5468"/>
-  <blank length="1492"/>
   <entry out="41686" producer="3_playlist1" in="40017"/>
   <entry out="6954" producer="slowmotion:3:7:1:0" in="5955"/>
-  <blank length="6004"/>
   <entry out="49676" producer="3_playlist1" in="48691"/>
   <entry out="9425" producer="slowmotion:3:7:1:0" in="7096"/>
-  <blank length="13977"/>
   <entry out="67436" producer="3_playlist1" in="65984"/>
   <entry out="9851" producer="slowmotion:3:7:1:0" in="9633"/>
-  <blank length="1312"/>
   <entry out="69802" producer="3_playlist1" in="68968"/>
   <entry out="14352" producer="slowmotion:3:7:1:0" in="9971"/>
-  <blank length="26289"/>
   <entry out="101096" producer="3_playlist1" in="100474"/>
   <entry out="16284" producer="slowmotion:3:7:1:0" in="14442"/>
   <entry out="965" producer="slowmotion:4:7:1:0" in="0"/>
-  <blank length="16862"/>
   <entry out="8331" producer="4_playlist1" in="6765"/>
   <entry out="3867" producer="slowmotion:4:7:1:0" in="1190"/>
-  <blank length="16071"/>
   <entry out="30601" producer="4_playlist1" in="27081"/>
   <entry out="4605" producer="slowmotion:4:7:1:0" in="4371"/>
-  <blank length="1411"/>
   <entry out="33572" producer="4_playlist1" in="32248"/>
   <entry out="5551" producer="slowmotion:4:7:1:0" in="4796"/>
-  <blank length="4540"/>
   <entry out="40784" producer="4_playlist1" in="38869"/>
   <entry out="7068" producer="slowmotion:4:7:1:0" in="5826"/>
-  <blank length="7460"/>
   <entry out="50865" producer="4_playlist1" in="49488"/>
   <entry out="7492" producer="slowmotion:4:7:1:0" in="7266"/>
-  <blank length="1363"/>
   <entry out="55735" producer="4_playlist1" in="52456"/>
   <entry out="7998" producer="slowmotion:4:7:1:0" in="7962"/>
-  <blank length="220"/>
   <entry out="57706" producer="4_playlist1" in="55993"/>
   <entry out="13406" producer="slowmotion:4:7:1:0" in="8244"/>
-  <blank length="30978"/>
   <entry out="95058" producer="4_playlist1" in="93848"/>
   <entry out="15151" producer="slowmotion:4:7:1:0" in="13579"/>
-  <blank length="9438"/>
   <entry out="107701" producer="4_playlist1" in="106070"/>
   <entry out="15615" producer="slowmotion:4:7:1:0" in="15386"/>
-  <blank length="1382"/>
   <entry out="112560" producer="4_playlist1" in="109314"/>
   <entry out="16319" producer="slowmotion:4:7:1:0" in="16080"/>
   <entry out="1470" producer="slowmotion:5:7:1:0" in="0"/>
-  <blank length="10270"/>
   <entry out="14976" producer="5_playlist1" in="10298"/>
   <entry out="3216" producer="slowmotion:5:7:1:0" in="2139"/>
-  <blank length="6465"/>
   <entry out="25781" producer="5_playlist1" in="22520"/>
   <entry out="3750" producer="slowmotion:5:7:1:0" in="3683"/>
-  <blank length="409"/>
   <entry out="27322" producer="5_playlist1" in="26259"/>
   <entry out="3964" producer="slowmotion:5:7:1:0" in="3903"/>
-  <blank length="374"/>
   <entry out="38762" producer="5_playlist1" in="27759"/>
   <entry out="6010" producer="slowmotion:5:7:1:0" in="5537"/>
-  <blank length="2843"/>
   <entry out="44420" producer="5_playlist1" in="42080"/>
   <entry out="7194" producer="slowmotion:5:7:1:0" in="6345"/>
-  <blank length="5095"/>
   <entry out="50850" producer="5_playlist1" in="50366"/>
   <entry out="8902" producer="slowmotion:5:7:1:0" in="7264"/>
-  <blank length="9831"/>
   <entry out="62388" producer="5_playlist1" in="62321"/>
   <entry out="10227" producer="slowmotion:5:7:1:0" in="8912"/>
-  <blank length="7897"/>
   <entry out="71741" producer="5_playlist1" in="71602"/>
   <entry out="11586" producer="slowmotion:5:7:1:0" in="10248"/>
-  <blank length="8028"/>
   <entry out="81359" producer="5_playlist1" in="81109"/>
   <entry out="12617" producer="slowmotion:5:7:1:0" in="11622"/>
-  <blank length="5973"/>
   <entry out="89082" producer="5_playlist1" in="88329"/>
   <entry out="12842" producer="slowmotion:5:7:1:0" in="12726"/>
-  <blank length="704"/>
   <entry out="90580" producer="5_playlist1" in="89904"/>
-  <entry out="114002" producer="5_playlist1" in="90581"/>
+  <entry out="91117" producer="5_playlist1" in="90581"/>
+  <entry out="13235" producer="producer0" in="13016"/>
+  <entry out="93481" producer="5_playlist1" in="92652"/>
+  <entry out="13956" producer="producer0" in="13354"/>
+  <entry out="100024" producer="5_playlist1" in="97704"/>
+  <entry out="14507" producer="producer0" in="14289"/>
+  <entry out="103746" producer="5_playlist1" in="101561"/>
+  <entry out="15083" producer="producer0" in="14821"/>
+  <entry out="108876" producer="5_playlist1" in="105592"/>
  </playlist>
  <producer id="8_playlist3" title="Anonymous Submission" out="1080029" in="0">
   <property name="length">05:00:00:30</property>
@@ -847,144 +838,152 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
+ <producer id="producer1" out="154281" in="0">
+  <property name="length">154282</property>
+  <property name="eof">pause</property>
+  <property name="resource">7:Downloads/5 hour stopwatch.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">29.97</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">28206</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2016-09-02T05:44:23.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">125588</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2016-09-02T05:44:23.000000Z</property>
+  <property name="meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2016-09-02T05:44:23.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">7</property>
+  <property name="warp_resource">Downloads/5 hour stopwatch.mp4</property>
+  <property name="mlt_service">timewarp</property>
+ </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
   <entry out="3415" producer="8_playlist3" in="0"/>
   <entry out="881" producer="slowmotion:8:7:1:0" in="488"/>
-  <blank length="2369"/>
   <entry out="13979" producer="8_playlist3" in="6179"/>
-  <entry out="2373" producer="slowmotion:8:7:1:0" in="1997"/>
-  <blank length="2263"/>
+  <entry out="2373" producer="8_playlist3" in="1997"/>
   <entry out="17639" producer="8_playlist3" in="16620"/>
   <entry out="2587" producer="slowmotion:8:7:1:0" in="2520"/>
-  <blank length="413"/>
   <entry out="20262" producer="8_playlist3" in="18121"/>
   <entry out="3235" producer="slowmotion:8:7:1:0" in="2894"/>
-  <blank length="2047"/>
   <entry out="26219" producer="8_playlist3" in="22652"/>
   <entry out="3818" producer="slowmotion:8:7:1:0" in="3745"/>
-  <blank length="444"/>
   <entry out="29177" producer="8_playlist3" in="26738"/>
   <entry out="4748" producer="slowmotion:8:7:1:0" in="4168"/>
-  <blank length="3488"/>
   <entry out="34810" producer="8_playlist3" in="33247"/>
   <entry out="5035" producer="slowmotion:8:7:1:0" in="4973"/>
-  <blank length="384"/>
   <entry out="40799" producer="8_playlist3" in="35258"/>
   <entry out="5945" producer="slowmotion:8:7:1:0" in="5828"/>
-  <blank length="705"/>
   <entry out="46556" producer="8_playlist3" in="41623"/>
   <entry out="6896" producer="slowmotion:8:7:1:0" in="6651"/>
-  <blank length="1482"/>
   <entry out="52079" producer="8_playlist3" in="48285"/>
   <entry out="7546" producer="slowmotion:8:7:1:0" in="7440"/>
-  <blank length="647"/>
   <entry out="53732" producer="8_playlist3" in="52834"/>
   <entry out="8464" producer="slowmotion:8:7:1:0" in="7676"/>
-  <blank length="4739"/>
   <entry out="60479" producer="8_playlist3" in="59261"/>
   <entry out="8901" producer="slowmotion:8:7:1:0" in="8640"/>
-  <blank length="1575"/>
   <entry out="63719" producer="8_playlist3" in="62317"/>
   <entry out="9158" producer="slowmotion:8:7:1:0" in="9102"/>
-  <blank length="340"/>
   <entry out="65699" producer="8_playlist3" in="64117"/>
   <entry out="10462" producer="slowmotion:8:7:1:0" in="9385"/>
-  <blank length="6466"/>
   <entry out="75299" producer="8_playlist3" in="73244"/>
   <entry out="14827" producer="slowmotion:8:7:1:0" in="10757"/>
-  <blank length="24429"/>
   <entry out="105119" producer="8_playlist3" in="103800"/>
   <entry out="16993" producer="slowmotion:8:7:1:0" in="15017"/>
-  <blank length="11867"/>
   <entry out="121259" producer="8_playlist3" in="118964"/>
   <entry out="20298" producer="slowmotion:8:7:1:0" in="17322"/>
-  <blank length="17861"/>
   <entry out="144419" producer="8_playlist3" in="142098"/>
   <entry out="21904" producer="slowmotion:8:7:1:0" in="20631"/>
-  <blank length="7643"/>
   <entry out="154559" producer="8_playlist3" in="153337"/>
   <entry out="22327" producer="slowmotion:8:7:1:0" in="22080"/>
-  <blank length="1492"/>
   <entry out="157969" producer="8_playlist3" in="156300"/>
   <entry out="23567" producer="slowmotion:8:7:1:0" in="22567"/>
-  <blank length="6003"/>
   <entry out="165959" producer="8_playlist3" in="164974"/>
   <entry out="26037" producer="slowmotion:8:7:1:0" in="23708"/>
-  <blank length="13977"/>
   <entry out="183719" producer="8_playlist3" in="182267"/>
   <entry out="26463" producer="slowmotion:8:7:1:0" in="26245"/>
-  <blank length="1312"/>
   <entry out="186085" producer="8_playlist3" in="185251"/>
   <entry out="30964" producer="slowmotion:8:7:1:0" in="26583"/>
-  <blank length="26289"/>
   <entry out="217379" producer="8_playlist3" in="216757"/>
   <entry out="33863" producer="slowmotion:8:7:1:0" in="31054"/>
-  <blank length="16861"/>
   <entry out="238617" producer="8_playlist3" in="237051"/>
   <entry out="36765" producer="slowmotion:8:7:1:0" in="34088"/>
-  <blank length="16071"/>
   <entry out="260887" producer="8_playlist3" in="257367"/>
   <entry out="37503" producer="slowmotion:8:7:1:0" in="37269"/>
-  <blank length="1411"/>
   <entry out="263858" producer="8_playlist3" in="262534"/>
   <entry out="38449" producer="slowmotion:8:7:1:0" in="37694"/>
-  <blank length="4540"/>
   <entry out="271070" producer="8_playlist3" in="269155"/>
   <entry out="39966" producer="slowmotion:8:7:1:0" in="38724"/>
-  <blank length="7460"/>
   <entry out="281151" producer="8_playlist3" in="279774"/>
   <entry out="40390" producer="slowmotion:8:7:1:0" in="40164"/>
-  <blank length="1363"/>
   <entry out="286021" producer="8_playlist3" in="282742"/>
   <entry out="40896" producer="slowmotion:8:7:1:0" in="40860"/>
-  <blank length="220"/>
   <entry out="287992" producer="8_playlist3" in="286279"/>
   <entry out="46304" producer="slowmotion:8:7:1:0" in="41142"/>
-  <blank length="30978"/>
   <entry out="325344" producer="8_playlist3" in="324134"/>
   <entry out="48049" producer="slowmotion:8:7:1:0" in="46477"/>
-  <blank length="9438"/>
   <entry out="337987" producer="8_playlist3" in="336356"/>
   <entry out="48513" producer="slowmotion:8:7:1:0" in="48284"/>
-  <blank length="1382"/>
   <entry out="342846" producer="8_playlist3" in="339600"/>
   <entry out="50688" producer="slowmotion:8:7:1:0" in="48978"/>
-  <blank length="10270"/>
   <entry out="359506" producer="8_playlist3" in="354828"/>
   <entry out="52434" producer="slowmotion:8:7:1:0" in="51358"/>
-  <blank length="6466"/>
   <entry out="370311" producer="8_playlist3" in="367050"/>
   <entry out="52968" producer="slowmotion:8:7:1:0" in="52901"/>
-  <blank length="409"/>
   <entry out="371852" producer="8_playlist3" in="370789"/>
   <entry out="53183" producer="slowmotion:8:7:1:0" in="53121"/>
-  <blank length="373"/>
   <entry out="383292" producer="8_playlist3" in="372289"/>
   <entry out="55229" producer="slowmotion:8:7:1:0" in="54756"/>
-  <blank length="2843"/>
   <entry out="388950" producer="8_playlist3" in="386610"/>
   <entry out="56412" producer="slowmotion:8:7:1:0" in="55564"/>
-  <blank length="5096"/>
   <entry out="395380" producer="8_playlist3" in="394896"/>
   <entry out="58120" producer="slowmotion:8:7:1:0" in="56483"/>
-  <blank length="9832"/>
   <entry out="406918" producer="8_playlist3" in="406851"/>
   <entry out="59446" producer="slowmotion:8:7:1:0" in="58131"/>
-  <blank length="7897"/>
   <entry out="416271" producer="8_playlist3" in="416132"/>
   <entry out="60804" producer="slowmotion:8:7:1:0" in="59467"/>
-  <blank length="8029"/>
   <entry out="425889" producer="8_playlist3" in="425639"/>
   <entry out="61836" producer="slowmotion:8:7:1:0" in="60841"/>
-  <blank length="5973"/>
   <entry out="433612" producer="8_playlist3" in="432859"/>
   <entry out="62061" producer="slowmotion:8:7:1:0" in="61944"/>
-  <blank length="703"/>
   <entry out="435110" producer="8_playlist3" in="434434"/>
-  <entry out="1080029" producer="8_playlist3" in="435111"/>
+  <entry out="435648" producer="8_playlist3" in="435111"/>
+  <entry out="62453" producer="producer1" in="62235"/>
+  <entry out="438013" producer="8_playlist3" in="437183"/>
+  <entry out="63175" producer="producer1" in="62573"/>
+  <entry out="444556" producer="8_playlist3" in="442236"/>
+  <entry out="63726" producer="producer1" in="63508"/>
+  <entry out="448278" producer="8_playlist3" in="446093"/>
+  <entry out="64302" producer="producer1" in="64039"/>
+  <entry out="453407" producer="8_playlist3" in="450124"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="1080030" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="159726" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist3"/>
