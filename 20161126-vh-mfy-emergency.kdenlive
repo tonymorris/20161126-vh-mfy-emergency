@@ -321,7 +321,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">16.08.3</property>
-  <property name="kdenlive:docproperties.position">1133</property>
+  <property name="kdenlive:docproperties.position">603</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=60 s=1920x1080 vb=90M threads=0 vcodec=dnxhd</property>
@@ -336,7 +336,7 @@
   <property name="kdenlive:docproperties.videotargettrack">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">0</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
+  <property name="kdenlive:docproperties.zoom">11</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups">&lt;groups>
  &lt;group>
@@ -366,36 +366,8 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry out="160626" producer="black" in="0"/>
+  <entry out="156816" producer="black" in="0"/>
  </playlist>
- <producer id="1_playlist1" title="Anonymous Submission" out="114002" in="0">
-  <property name="length">00:31:40:03</property>
-  <property name="eof">pause</property>
-  <property name="resource">work/20161126-vh-mfy-emergency/media/YBAF2-Nov-25-2016-2230Z.mp3</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
-  <property name="kdenlive:file_size">7600563</property>
-  <property name="kdenlive:file_hash">1304a3b331c3fb4de1f706271066936f</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s16p</property>
-  <property name="meta.media.0.codec.sample_rate">22050</property>
-  <property name="meta.media.0.codec.channels">1</property>
-  <property name="meta.media.0.codec.name">mp3</property>
-  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
-  <property name="meta.media.0.codec.bit_rate">32000</property>
-  <property name="meta.attr.title.markup">Nov-25-2016-2230Z             </property>
-  <property name="meta.attr.artist.markup">YBAF Gnd/Twr #2 (LiveATC.net) </property>
-  <property name="meta.attr.album.markup"/>
-  <property name="meta.attr.date.markup"/>
-  <property name="meta.attr.comment.markup"/>
-  <property name="meta.attr.encoder.markup">Lavf55.32.100</property>
- </producer>
  <producer id="2_playlist1" title="Anonymous Submission" out="114002" in="0">
   <property name="length">00:31:40:03</property>
   <property name="eof">pause</property>
@@ -471,9 +443,6 @@
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:locked_track">0</property>
   <blank length="900"/>
-  <entry out="114002" producer="1_playlist1" in="111723"/>
-  <entry out="1134" producer="2_playlist1" in="0"/>
-  <entry out="556" producer="2_playlist1" in="162"/>
   <entry out="11699" producer="2_playlist1" in="3899"/>
   <entry out="2047" producer="2_playlist1" in="1671"/>
   <entry out="15359" producer="2_playlist1" in="14340"/>
@@ -649,17 +618,6 @@
     <property name="end">0</property>
    </filter>
   </entry>
-  <entry out="3415" producer="8_playlist3" in="0">
-   <filter id="filter0" out="75">
-    <property name="start">0</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_black</property>
-    <property name="tag">brightness</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="end">1</property>
-   </filter>
-  </entry>
-  <entry out="881" producer="8_playlist3" in="488"/>
   <entry out="13979" producer="8_playlist3" in="6179"/>
   <entry out="2373" producer="8_playlist3" in="1997"/>
   <entry out="17639" producer="8_playlist3" in="16620"/>
@@ -774,7 +732,7 @@
  </producer>
  <playlist id="playlist0">
   <property name="kdenlive:track_name">Video 2</property>
-  <blank length="142936"/>
+  <blank length="139126"/>
   <entry out="1084" producer="6_playlist0" in="0"/>
  </playlist>
  <producer id="7_playlist2" title="Anonymous Submission" out="1204" in="0">
@@ -794,10 +752,10 @@
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:track_name">Video 3</property>
-  <blank length="143961"/>
+  <blank length="140151"/>
   <entry out="1204" producer="7_playlist2" in="0"/>
  </playlist>
- <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="160626" in="0">
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="156816" in="0">
   <track producer="black_track"/>
   <track producer="playlist1" hide="video"/>
   <track producer="playlist3"/>
@@ -835,7 +793,7 @@
    <property name="combine">1</property>
    <property name="internal_added">237</property>
   </transition>
-  <transition id="transition4" out="144020" in="143961">
+  <transition id="transition4" out="140210" in="140151">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
